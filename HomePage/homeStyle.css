@@ -1,0 +1,10 @@
+li{
+    float:left;
+    list-style-type: none;
+    padding: 30px 10px;
+    margin-right: 0;
+    heigth: 10px;
+}
+body{
+    background-color: aquamarine;
+}
